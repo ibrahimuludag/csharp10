@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-HelloWorld", "01-HelloWorld", "{488C4EB4-F674-4180-862F-E270BA2DC7F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalNamespaceImport", "GlobalNamespaceImport\GlobalNamespaceImport.csproj", "{D62D77E7-6D3E-4C84-8EA3-2A0CF42555DA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-GlobalNamespaceImport", "02-GlobalNamespaceImport", "{F2F5E6AC-63F9-443B-B8B7-F42AE92A308B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{D6A043BF-4E8D-4B6A-9165-E0C607333190}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6A043BF-4E8D-4B6A-9165-E0C607333190}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6A043BF-4E8D-4B6A-9165-E0C607333190}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D62D77E7-6D3E-4C84-8EA3-2A0CF42555DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D62D77E7-6D3E-4C84-8EA3-2A0CF42555DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D62D77E7-6D3E-4C84-8EA3-2A0CF42555DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D62D77E7-6D3E-4C84-8EA3-2A0CF42555DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{D6A043BF-4E8D-4B6A-9165-E0C607333190} = {488C4EB4-F674-4180-862F-E270BA2DC7F1}
+		{D62D77E7-6D3E-4C84-8EA3-2A0CF42555DA} = {F2F5E6AC-63F9-443B-B8B7-F42AE92A308B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CF20F605-7E7E-4CBC-8487-BE301AE554A3}
