@@ -1,0 +1,1 @@
+﻿You can save multiple values in a property using enum Flags

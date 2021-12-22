@@ -6,4 +6,4 @@ Car car = new()
     Model = "Korando",
     Year = 2020
 };
-Console.WriteLine($"{car.Make}");
+Console.WriteLine($"Your car is {car.Make} {car.Model} {car.Year}");
