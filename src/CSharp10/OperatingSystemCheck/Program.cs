@@ -15,3 +15,13 @@ else if (OperatingSystem.IsBrowser())
     Console.WriteLine("You running on browser with a Blazor app");
 }
 
+
+#if NET6_0_OR_GREATER
+    Console.WriteLine("You running on .NET 6 or greater");
+#endif
+#if NET6_0_WINDOWS
+    Console.WriteLine("You running on .NET 6 or greater on Windows");
+#endif
+#if NET6_0_IOS
+    Console.WriteLine("You running on .NET 6 on IOS");
+#endif
