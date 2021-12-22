@@ -19,6 +19,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-OperatingSystemCheck", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatingSystemCheck", "OperatingSystemCheck\OperatingSystemCheck.csproj", "{53DAD3CC-6170-4D5D-B24A-48DC8A4E2317}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-StackOverflow", "04-StackOverflow", "{C440DFEE-A5C8-4E45-B7BE-504F349A1F70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackOverflow", "StackOverflow\StackOverflow.csproj", "{FB81FA4E-33C7-4545-A803-E35EB21690F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +45,10 @@ Global
 		{53DAD3CC-6170-4D5D-B24A-48DC8A4E2317}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53DAD3CC-6170-4D5D-B24A-48DC8A4E2317}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53DAD3CC-6170-4D5D-B24A-48DC8A4E2317}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB81FA4E-33C7-4545-A803-E35EB21690F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB81FA4E-33C7-4545-A803-E35EB21690F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB81FA4E-33C7-4545-A803-E35EB21690F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB81FA4E-33C7-4545-A803-E35EB21690F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,6 +58,7 @@ Global
 		{D62D77E7-6D3E-4C84-8EA3-2A0CF42555DA} = {F2F5E6AC-63F9-443B-B8B7-F42AE92A308B}
 		{1FEB5296-E51C-46E8-A776-E5B418E2D954} = {E6DAEC32-165E-45EC-AD16-F94C03B28984}
 		{53DAD3CC-6170-4D5D-B24A-48DC8A4E2317} = {0AFF15E3-2FA5-4013-8E78-D9365B77742B}
+		{FB81FA4E-33C7-4545-A803-E35EB21690F1} = {C440DFEE-A5C8-4E45-B7BE-504F349A1F70}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CF20F605-7E7E-4CBC-8487-BE301AE554A3}
