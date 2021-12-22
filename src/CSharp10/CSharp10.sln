@@ -19,9 +19,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-OperatingSystemCheck", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatingSystemCheck", "OperatingSystemCheck\OperatingSystemCheck.csproj", "{53DAD3CC-6170-4D5D-B24A-48DC8A4E2317}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-StackOverflow", "04-StackOverflow", "{C440DFEE-A5C8-4E45-B7BE-504F349A1F70}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-Overflow", "04-Overflow", "{C440DFEE-A5C8-4E45-B7BE-504F349A1F70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackOverflow", "StackOverflow\StackOverflow.csproj", "{FB81FA4E-33C7-4545-A803-E35EB21690F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overflow", "Overflow\Overflow.csproj", "{FB81FA4E-33C7-4545-A803-E35EB21690F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -9,6 +9,7 @@ WriteLine($"Number is {bigNumber}");
 bigNumber++;
 WriteLine($"Number is {bigNumber}");
 WriteLine($"There is OverflowException but exception is not thrown becuase the code block is not surrounded with checked");
+WriteLine($"If you want to get OberflowException, enable Check Arithmenti Overflow in the project settings");
 WriteLine($"Below code block will throw OverflowException");
 
 checked
