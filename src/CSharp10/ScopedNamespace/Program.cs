@@ -1,6 +1,6 @@
 ﻿using ScopedNamespace;
 
-var car = new Car
+Car car = new()
 {
     Make = "Ssangyong",
     Model = "Korando",
