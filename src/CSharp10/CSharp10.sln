@@ -3,17 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{D6A043BF-4E8D-4B6A-9165-E0C607333190}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{D6A043BF-4E8D-4B6A-9165-E0C607333190}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-HelloWorld", "01-HelloWorld", "{488C4EB4-F674-4180-862F-E270BA2DC7F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalNamespaceImport", "GlobalNamespaceImport\GlobalNamespaceImport.csproj", "{D62D77E7-6D3E-4C84-8EA3-2A0CF42555DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GlobalNamespaceImport", "GlobalNamespaceImport\GlobalNamespaceImport.csproj", "{D62D77E7-6D3E-4C84-8EA3-2A0CF42555DA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-GlobalNamespaceImport", "02-GlobalNamespaceImport", "{F2F5E6AC-63F9-443B-B8B7-F42AE92A308B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "99-Bonus", "99-Bonus", "{E6DAEC32-165E-45EC-AD16-F94C03B28984}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bonus", "Bonus\Bonus.csproj", "{1FEB5296-E51C-46E8-A776-E5B418E2D954}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bonus", "Bonus\Bonus.csproj", "{1FEB5296-E51C-46E8-A776-E5B418E2D954}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-OperatingSystemCheck", "03-OperatingSystemCheck", "{0AFF15E3-2FA5-4013-8E78-D9365B77742B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatingSystemCheck", "OperatingSystemCheck\OperatingSystemCheck.csproj", "{53DAD3CC-6170-4D5D-B24A-48DC8A4E2317}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,10 @@ Global
 		{1FEB5296-E51C-46E8-A776-E5B418E2D954}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FEB5296-E51C-46E8-A776-E5B418E2D954}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FEB5296-E51C-46E8-A776-E5B418E2D954}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53DAD3CC-6170-4D5D-B24A-48DC8A4E2317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53DAD3CC-6170-4D5D-B24A-48DC8A4E2317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53DAD3CC-6170-4D5D-B24A-48DC8A4E2317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53DAD3CC-6170-4D5D-B24A-48DC8A4E2317}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,6 +49,7 @@ Global
 		{D6A043BF-4E8D-4B6A-9165-E0C607333190} = {488C4EB4-F674-4180-862F-E270BA2DC7F1}
 		{D62D77E7-6D3E-4C84-8EA3-2A0CF42555DA} = {F2F5E6AC-63F9-443B-B8B7-F42AE92A308B}
 		{1FEB5296-E51C-46E8-A776-E5B418E2D954} = {E6DAEC32-165E-45EC-AD16-F94C03B28984}
+		{53DAD3CC-6170-4D5D-B24A-48DC8A4E2317} = {0AFF15E3-2FA5-4013-8E78-D9365B77742B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CF20F605-7E7E-4CBC-8487-BE301AE554A3}
