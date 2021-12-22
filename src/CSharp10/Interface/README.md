@@ -1,0 +1,1 @@
+﻿With C# 8, interface can have default implementations.
