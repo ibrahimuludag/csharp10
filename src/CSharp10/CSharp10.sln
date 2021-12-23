@@ -51,6 +51,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11-Deconstruct", "11-Decons
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deconstruct", "Deconstruct\Deconstruct.csproj", "{0CA0964D-24EA-4D3E-ACC3-99F0258DD0AA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12-StructureConstructor", "12-StructureConstructor", "{DE77EEDA-0374-4EA1-B281-1B636CCA1B46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructureConstructor", "StructureConstructor\StructureConstructor.csproj", "{488DB7FE-E603-42C6-8506-1561B0D1CB00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,10 @@ Global
 		{0CA0964D-24EA-4D3E-ACC3-99F0258DD0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CA0964D-24EA-4D3E-ACC3-99F0258DD0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CA0964D-24EA-4D3E-ACC3-99F0258DD0AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{488DB7FE-E603-42C6-8506-1561B0D1CB00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{488DB7FE-E603-42C6-8506-1561B0D1CB00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{488DB7FE-E603-42C6-8506-1561B0D1CB00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{488DB7FE-E603-42C6-8506-1561B0D1CB00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -122,6 +130,7 @@ Global
 		{5256A94E-033E-41F4-A6CB-6EB32EA60D71} = {A09555BC-06FD-4CF0-826A-4BAC9992B82E}
 		{B108B5C7-59BB-47B2-AFFD-9DD8FDD86CFC} = {440FC562-9350-429C-AEF8-260224847764}
 		{0CA0964D-24EA-4D3E-ACC3-99F0258DD0AA} = {E33B84FA-504F-4B6A-A338-8DF17D48E6A5}
+		{488DB7FE-E603-42C6-8506-1561B0D1CB00} = {DE77EEDA-0374-4EA1-B281-1B636CCA1B46}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CF20F605-7E7E-4CBC-8487-BE301AE554A3}
