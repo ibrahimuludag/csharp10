@@ -55,6 +55,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12-StructureConstructor", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructureConstructor", "StructureConstructor\StructureConstructor.csproj", "{488DB7FE-E603-42C6-8506-1561B0D1CB00}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "13-MinimalApi", "13-MinimalApi", "{3299D696-1E44-4B4C-9690-D5F19571B26D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalApi", "MinimalApi\MinimalApi.csproj", "{38499F88-5E04-4422-9E7D-0F5EA9FB0294}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -113,6 +117,10 @@ Global
 		{488DB7FE-E603-42C6-8506-1561B0D1CB00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{488DB7FE-E603-42C6-8506-1561B0D1CB00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{488DB7FE-E603-42C6-8506-1561B0D1CB00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38499F88-5E04-4422-9E7D-0F5EA9FB0294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38499F88-5E04-4422-9E7D-0F5EA9FB0294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38499F88-5E04-4422-9E7D-0F5EA9FB0294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38499F88-5E04-4422-9E7D-0F5EA9FB0294}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -131,6 +139,7 @@ Global
 		{B108B5C7-59BB-47B2-AFFD-9DD8FDD86CFC} = {440FC562-9350-429C-AEF8-260224847764}
 		{0CA0964D-24EA-4D3E-ACC3-99F0258DD0AA} = {E33B84FA-504F-4B6A-A338-8DF17D48E6A5}
 		{488DB7FE-E603-42C6-8506-1561B0D1CB00} = {DE77EEDA-0374-4EA1-B281-1B636CCA1B46}
+		{38499F88-5E04-4422-9E7D-0F5EA9FB0294} = {3299D696-1E44-4B4C-9690-D5F19571B26D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CF20F605-7E7E-4CBC-8487-BE301AE554A3}
